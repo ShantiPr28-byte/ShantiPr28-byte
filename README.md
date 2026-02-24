@@ -83,7 +83,7 @@ Class X — Divine Light Public School (89%)
 <h2>🌐 Connect With Me</h2>
 
 LeetCode: https://leetcode.com/u/ShantiPr28/  
-LinkedIn: https://www.linkedin.com/in/shantipriya2812/
+LinkedIn: https://www.linkedin.com/in/shantipriya2812/  <br/>
 Email: shantipriya2812@gmail.com  
 
 ⭐️ “Building intelligent systems with clean code and real-world impact.”
