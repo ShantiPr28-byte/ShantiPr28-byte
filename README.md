@@ -36,8 +36,8 @@ Soft Skills: Teamwork, Communication, Collaboration, Leadership by Influence, Mu
 
 📅 Jul 2025 – Sep 2025
 
-- Worked on supervised and unsupervised learning tasks using Python  
-- Focused on data preprocessing, model evaluation, and structured workflows  
+- Worked on supervised and unsupervised learning tasks using Python <br/> 
+- Focused on data preprocessing, model evaluation, and structured workflows  <br/>
 - Documented results and improved analytical and communication skills  
 
 <h2>🏗 Projects</h2>
@@ -67,9 +67,7 @@ Soft Skills: Teamwork, Communication, Collaboration, Leadership by Influence, Mu
 <h2>🎓 Education</h2>
 
 B.Tech in Computer Science & Engineering (AIML)  
-Galgotias University, Greater Noida  
-
-📅 2023–2027  
+Galgotias University, Greater Noida         📅 2023–2027  
 CGPA: 8.3/10 <br/>
 
 Class XII — Manas Bharti Edu School (79%) <br/>
