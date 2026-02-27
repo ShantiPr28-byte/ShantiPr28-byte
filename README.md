@@ -49,13 +49,6 @@ Soft Skills: Teamwork, Communication, Collaboration, Leadership by Influence, Mu
 <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white"/>
 </p>
 
-<h3>Online Job Portal (Java, MySQL)</h3>
-📅 Oct 2024 – Dec 2024  
-- Developed a web-based job portal for job seekers and employers  
-- Implemented authentication and dashboard features  
-- Applied SDLC principles and user-centered design  
-- Designed responsive and user-friendly UI  
-
 <h2>🎓 Education</h2>
 B.Tech in Computer Science & Engineering (AIML)  
 Galgotias University, Greater Noida  
@@ -75,7 +68,7 @@ Class X — Divine Light Public School (89%)
 ![Shanti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShantiPr28-byte0&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShantiPr28-byte&layout=compact&theme=default)
 <h2>🌐 Connect With Me</h2>
-LeetCode: https://leetcode.com/u/ShantiPr28/  
+LeetCode: https://leetcode.com/u/ShantiPr28/  <br/>
 LinkedIn: https://www.linkedin.com/in/shantipriya2812/  <br/>
 Email: shantipriya2812@gmail.com  
 ⭐️ "Building intelligent systems with clean code and real-world impact."
