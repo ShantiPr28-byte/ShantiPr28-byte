@@ -44,9 +44,7 @@ Soft Skills: Teamwork, Communication, Collaboration, Leadership by Influence, Mu
 
 <h3>🎯 RecruitAi — AI-Powered Campus Recruitment Platform (Java, Spring Boot, MySQL)</h3>
 
-📅 2025 – 2026 &nbsp;|&nbsp;  
-🌐 <a href="https://recruitai-pu35.onrender.com">Live Demo</a> &nbsp;|&nbsp;  
-📁 <a href="https://github.com/ShantiPr28-byte/RecruitAi">Repository</a>
+📅 2025 – 2026 &nbsp;|&nbsp;🌐 <a href="https://recruitai-pu35.onrender.com">Live Demo</a> &nbsp;|&nbsp;📁 <a href="https://github.com/ShantiPr28-byte/RecruitAi">Repository</a>
 
 - Built a full-stack campus placement management system connecting students, recruiters, and college admins  
 - Implemented JWT-based authentication with role-based access control for 3 user types  
