@@ -60,8 +60,8 @@ Soft Skills: Teamwork, Communication, Collaboration, Leadership by Influence, Mu
 B.Tech in Computer Science & Engineering (AIML)  
 Galgotias University, Greater Noida  
 📅 2023–2027  
-CGPA: 8.3/10  
-Class XII — Manas Bharti Edu School (79%)  
+CGPA: 8.3/10  <br/>
+Class XII — Manas Bharti Edu School (79%)  <br/>
 Class X — Divine Light Public School (89%)  
 <h2>🏅 Certifications</h2>
 - Data Visualization Using Python — GUVI  
