@@ -64,12 +64,12 @@ CGPA: 8.3/10  <br/>
 Class XII — Manas Bharti Edu School (79%)  <br/>
 Class X — Divine Light Public School (89%)  
 <h2>🏅 Certifications</h2>
-- Data Visualization Using Python — GUVI  
-- Data Analysis Project — GUVI  
+- Data Visualization Using Python — GUVI  <br/>
+- Data Analysis Project — GUVI  <br/>
 - Design Thinking — NPTEL  
 <h2>🏆 Achievements</h2>
-- Solved 300+ DSA problems on LeetCode & GeeksforGeeks  
-- Strong academic performance (CGPA 8.3)  
+- Solved 300+ DSA problems on LeetCode & GeeksforGeeks  <br/>
+- Strong academic performance (CGPA 8.3)  <br/>
 - Built full-stack and AI-based projects independently  
 <h2>📊 GitHub Stats</h2>
 ![Shanti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShantiPr28-byte0&show_icons=true&theme=default)
