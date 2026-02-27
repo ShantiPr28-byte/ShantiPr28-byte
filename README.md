@@ -67,13 +67,7 @@ Teamwork • Communication • Collaboration • Leadership by Influence • Mul
 
 ### 🎯 RecruitAi — AI-Powered Campus Recruitment Platform  
 **Tech Stack:** Java • Spring Boot • MySQL • JWT • HTML  
-📅 **2025 – 2026**
-
-🌐 **Live Demo:**  
-https://recruitai-pu35.onrender.com  
-
-📁 **Repository:**  
-https://github.com/ShantiPr28-byte/RecruitAi
+📅 2025 – 2026 &nbsp;|&nbsp; 🌐 <a href="https://recruitai-pu35.onrender.com">Live Demo</a> &nbsp;|&nbsp; 📁 <a href="https://github.com/ShantiPr28-byte/RecruitAi">Repository</a>
 
 **Key Features**
 - Full-stack campus placement management system connecting students, recruiters, and admins  
