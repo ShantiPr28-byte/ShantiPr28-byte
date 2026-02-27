@@ -65,10 +65,10 @@ Class X — Divine Light Public School (89%)
 - Strong academic performance (CGPA 8.3)  <br/>
 - Built full-stack and AI-based projects independently  
 <h2>📊 GitHub Stats</h2>
-![Shanti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShantiPr28-byte0&show_icons=true&theme=default)
+![Shanti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShantiPr28-byte0&show_icons=true&theme=default) <br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShantiPr28-byte&layout=compact&theme=default)
 <h2>🌐 Connect With Me</h2>
 LeetCode: https://leetcode.com/u/ShantiPr28/  <br/>
 LinkedIn: https://www.linkedin.com/in/shantipriya2812/  <br/>
-Email: shantipriya2812@gmail.com  
+Email: shantipriya2812@gmail.com  <br/>
 ⭐️ "Building intelligent systems with clean code and real-world impact."
