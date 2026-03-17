@@ -1,104 +1,149 @@
-<h1>Hi there 👋, I'm Shanti Priya</h1>
+<div align="center">
 
-B.Tech CSE (AIML) '27 | Aspiring Java & AI/ML Developer | Galgotias University
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Shanti+Priya;Java+%26+AI%2FML+Developer;B.Tech+CSE+(AIML)+%40+Galgotias;Spring+Boot+Builder+%7C+DSA+Grinder)
 
-<h2>🚀 Professional Summary</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Welcome+to+my+Profile!&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-Detail-oriented B.Tech student with strong foundations in Java, Python, Data Structures, and Software Development Lifecycle (SDLC).
+</div>
 
-Hands-on experience in AI/ML concepts and real-world project development. Passionate about building intelligent, scalable, and user-centric applications while continuously improving problem-solving and analytical skills.
+---
 
-<h2>🔧 Technical Skills</h2>
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-Programming Languages: C, Java, Python, JavaScript <br/>
-Frontend: React.js, HTML, CSS <br/>
-Databases: MySQL <br/>
-Core Concepts: OOP, Data Structures & Algorithms, SDLC <br/>
-Tools & Platforms: Git, GitHub, VS Code <br/>
-Soft Skills: Teamwork, Communication, Collaboration, Leadership by Influence, Multitasking, Attention to Detail
+### 👩‍💻 About Me
 
-<h2>🎖️ Badges</h2>
+```yaml
+Name     : Shanti Priya
+Degree   : B.Tech — Computer Science Engineering (AIML)
+Uni      : Galgotias University (CGPA: 8.3 / 10)
+Location : Greater Noida, Uttar Pradesh 🇮🇳
+Focus    : Java · Spring Boot · AI/ML · Full Stack Dev
+DSA      : 300+ problems on LeetCode & GFG
+Status   : Open to Internships & Collaborations
+```
 
-<p>
-<img src="https://img.shields.io/badge/Java-F80000?style=flat&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/SDLC-000000?style=flat"/>
-</p>
+- 🔭 Currently building **RecruitAi** — an AI-powered campus recruitment platform
+- 🌱 Learning **Spring Boot, System Design & Advanced DSA**
+- 🤖 Interned as an **AI-ML Virtual Intern** (Google for Developers × EduSkills)
+- 💼 Certified by **GUVI & NPTEL**
+- ⚡ Fun fact: I turn complex placement workflows into clean, scalable APIs ☕
 
-<h2>🧑‍💻 Internships</h2>
+<br clear="right"/>
 
-<h3>AI-ML Virtual Intern — EduSkills (Supported by Google for Developers)</h3>
+---
 
-📅 Jul 2025 – Sep 2025
+## 🛠️ Tech Stack
 
-- Worked on supervised and unsupervised learning tasks using Python <br/> 
-- Focused on data preprocessing, model evaluation, and structured workflows  <br/>
-- Documented results and improved analytical and communication skills  
+**Languages**
 
-<h2>🏗 Projects</h2>
+![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-<h3>🎯 RecruitAi — AI-Powered Campus Recruitment Platform (Java, Spring Boot, MySQL)</h3>
+**Frontend**
 
-📅 2025 – 2026 &nbsp;|&nbsp;🌐 <a href="https://recruitai-pu35.onrender.com">Live Demo</a> &nbsp;|&nbsp;📁 <a href="https://github.com/ShantiPr28-byte/RecruitAi">Repository</a>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- Built a full-stack campus placement management system connecting students, recruiters, and college admins  
-- Implemented JWT-based authentication with role-based access control for 3 user types  
-- Developed auto-shortlisting engine that matches students to job criteria based on CGPA and branch  
-- Designed REST APIs using Spring Boot with complete application pipeline (Applied → Shortlisted → Interview → Selected)  
-- Integrated placement analytics dashboard with branch-wise reporting for college admins  
-- Deployed on Render with MySQL database and environment-based configuration  
+**Backend & Databases**
 
-<p>
-<img src="https://img.shields.io/badge/Java-F80000?style=flat&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white"/>
-</p>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-<h2>🎓 Education</h2>
+**ML & Data Science**
 
-B.Tech in Computer Science & Engineering (AIML)  
-Galgotias University, Greater Noida         📅 2023–2027  
-CGPA: 8.3/10 <br/>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-Class XII — Manas Bharti Edu School (79%) <br/>
-Class X — Divine Light Public School (89%)
+**Tools & Platforms**
 
-<h2>🏅 Certifications</h2>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
-- Data Visualization Using Python — GUVI <br/>
-- Data Analysis Project — GUVI <br/>
-- Design Thinking — NPTEL  
+---
 
-<h2>🏆 Achievements</h2>
+## 🚀 Featured Projects
 
-- Solved 300+ DSA problems on LeetCode & GeeksforGeeks <br/>
-- Strong academic performance (CGPA 8.3) <br/>
-- Built full-stack and AI-based projects independently  
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### 🎯 RecruitAi — AI-Powered Campus Recruitment Platform
+> Full-stack placement management system connecting students, recruiters, and college admins with intelligent auto-shortlisting
+
+**Tech:** `Java` `Spring Boot` `MySQL` `JWT` `HTML` `Render`
+
+✅ JWT-based authentication with role-based access for 3 user types  
+✅ Auto-shortlisting engine matching students by CGPA & branch  
+✅ Complete application pipeline: Applied → Shortlisted → Interview → Selected  
+✅ Placement analytics dashboard with branch-wise reporting  
+✅ Deployed live on Render with environment-based configuration  
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://recruitai-pu35.onrender.com)
+[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShantiPr28-byte/RecruitAi)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Experience
+
+**🤖 AI-ML Virtual Intern — EduSkills × Google for Developers**
+
+> Worked on supervised and unsupervised learning tasks using Python. Focused on data preprocessing, model evaluation, and structured ML workflows. Documented results and strengthened analytical and communication skills.
+
+---
+
+## 🏆 Achievements & Certifications
+
+| 🏅 | Achievement |
+|----|-------------|
+| 🤖 | **AIML Virtual Internship** — Google for Developers (EduSkills) |
+| 💻 | **300+ DSA Problems** solved on LeetCode & GeeksforGeeks |
+| 📊 | **Data Visualization Using Python** — GUVI |
+| 📈 | **Data Analysis Project** — GUVI |
+| 🎓 | **Design Thinking** — NPTEL |
+| 🏗️ | Built & deployed **RecruitAi** — a full-stack production app |
 
 ---
 
 ## 📊 GitHub Stats
 
-![Shanti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShantiPr28-byte&show_icons=true&theme=default)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShantiPr28-byte&layout=compact&theme=default)
+![Shanti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShantiPr28-byte&show_icons=true&theme=tokyonight&hide_border=true)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShantiPr28-byte&layout=compact&theme=tokyonight&hide_border=true)
 
-## 🌐 Connect With Me
-
-🔹 **LeetCode:** https://leetcode.com/u/ShantiPr28/  
-🔹 **LinkedIn:** https://www.linkedin.com/in/shantipriya2812/  
-🔹 **Email:** shantipriya2812@gmail.com  
+</div>
 
 ---
 
-⭐ *"Building intelligent systems with clean code and real-world impact."*
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shantipriya2812/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shantipriya2812@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShantiPr28-byte)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ShantiPr28/)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Building intelligent systems with clean code and real-world impact."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
