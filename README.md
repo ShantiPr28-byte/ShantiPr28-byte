@@ -18,7 +18,7 @@ Degree   : B.Tech — Computer Science Engineering (AIML)
 Uni      : Galgotias University (CGPA: 8.3 / 10)
 Location : Greater Noida, Uttar Pradesh 🇮🇳
 Focus    : Java · Spring Boot · AI/ML · Full Stack Dev
-DSA      : 300+ problems on LeetCode & GFG
+DSA      : 400+ problems on LeetCode & GFG
 Status   : Open to Internships & Collaborations
 ```
 
