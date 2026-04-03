@@ -107,7 +107,7 @@ Status   : Open to Internships & Collaborations
 | 🏅 | Achievement |
 |----|-------------|
 | 🤖 | **AIML Virtual Internship** — Google for Developers (EduSkills) |
-| 💻 | **300+ DSA Problems** solved on LeetCode & GeeksforGeeks |
+| 💻 | **400+ DSA Problems** solved on LeetCode & GeeksforGeeks |
 | 📊 | **Data Visualization Using Python** — GUVI |
 | 📈 | **Data Analysis Project** — GUVI |
 | 🎓 | **Design Thinking** — NPTEL |
